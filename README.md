@@ -14,7 +14,7 @@
 - Create a branch yourname-testing
 - Switch to that branch `git checkout yourname-testing`
 - Be sure you have everything update from master `git pull origin master`
-- Publish your branch `git push -u origin yourname-test
+- Publish your branch `git push -u origin yourname-test`
 - Check the branch exists now in GitLab
 - Create a file: test_yourname.md
 - Write "this is yourname test" within the md file
