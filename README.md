@@ -5,4 +5,4 @@
 - Add a text file and write something
 - Create a merge request
 - Assign it to someone
-- Review andn approve, merge with master
+- Review and approve, merge with master
